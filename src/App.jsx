@@ -304,7 +304,7 @@ export default function App() {
       {/* Sidebar */}
       <aside className="w-20 fixed h-screen bg-white shadow-xl rounded-r-3xl flex flex-col items-center py-6 z-10">
         <div className="mb-6 cursor-pointer">
-          <img className="60px" src={img} alt="Logo" />
+          <img className="w-[60px]" src={img} alt="Logo" />
         </div>{" "}
         {/* Logo */}
         <nav className="flex flex-col space-y-6">
